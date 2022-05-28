@@ -1,4 +1,4 @@
 var today = new Date();
 var timeNow = today.getTime();
 
-document.write(timeNow);
+document.write("Time of last refresh:" + timeNow);
